@@ -1,5 +1,5 @@
 {
-  "name": "load-vconsole",
+  "name": "vind-load-vconsole",
   "version": "0.2.0",
   "description": "load-vconsole",
   "main": "index.js",
